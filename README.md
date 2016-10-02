@@ -1,4 +1,3 @@
-# auhungryproject.github.io
 ## 你想吃啥？
 蒸羊羔，蒸熊掌，蒸鹿尾儿， 
 烧花鸭，烧雏鸡儿，烧子鹅 
