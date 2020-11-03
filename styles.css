@@ -62,8 +62,8 @@ a img{
 
 
 .android-logo-image {
-  height: 28px;
-  width: 140px;
+  height: 50px;
+  width: 50px;
 }
 
 
@@ -178,7 +178,8 @@ a img{
   background: url('images/slide01.jpg') center 30% repeat;
   /*background-size: cover;*/
     filter: blur(1px);
-  -webkit-filter: blur(1px);
+   -webkit-filter: blur(1px);
+
 }
 
 .logo-font {
